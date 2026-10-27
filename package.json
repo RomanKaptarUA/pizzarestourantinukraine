@@ -1,0 +1,14 @@
+{
+  "name": "pizzarestourantinukraine",
+  "version": "1.0.0",
+  "description": "Італійська піцерія — демонстраційний сайт із меню та кошиком",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
